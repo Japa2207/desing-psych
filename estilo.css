@@ -12,3 +12,7 @@
         .cabecalho h1{
             margin-left: 50%;
         }
+.cabecalho{
+    background-image: url(./img/psych JH.png);
+    height: 300px;
+}
