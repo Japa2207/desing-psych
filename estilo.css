@@ -3,7 +3,7 @@
     color: black;
 }
 .cabecalho{
-    background: linear-gradient(to right, #D6FB61 30%, #fdfdfd 60%);
+    background: linear-gradient(to right, #D6FB61 60%, #fdfdfd 30%);
 }
         .cabecalho img{
             text-align: center;
