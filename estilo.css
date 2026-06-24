@@ -15,4 +15,11 @@
 .cabecalho{
     background-image: url(./img/psych JH.png);
     height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
+.cabecalho
+   width: 50px
+   height: 50px
