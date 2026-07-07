@@ -25,9 +25,9 @@
    height: 50px
    .cabecalho-secundario{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-intems: center;
+    flex-direction:column;
+    justify-content:center;
+    align-intems:center;
 }
 .conteudo01{
     display: flex;
