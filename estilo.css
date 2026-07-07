@@ -13,19 +13,25 @@
             margin-left: 50%;
         }
 .cabecalho{
-    background-image: url(./img/psych JH.png);
+    background-image: url(./img/psychJH.png);
     height: 300px;
     background-repeat: no-repeat;
     background-size: cover;
-    display: grid;
+    display:grid;
     grid-template-columns: 50% 50%;
 }
-.cabecalho
+   .cabecalho
    width: 50px
    height: 50px
    .cabecalho-secundario{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-intems; center;
+    align-intems: center;
+}
+.conteudo01{
+    display: flex;
+}
+.conteudo01-img{
+    width: 40%;
 }
