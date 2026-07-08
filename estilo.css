@@ -1,48 +1,55 @@
- body{
-    background-color: azure;
-    color: black;
-}
-.cabecalho{
-    background: linear-gradient(to right, #D6FB61 30%, #fdfdfd 60%);
-}
-        .cabecalho img{
-            text-align: center;
-            width: 30%;
-        }
-        .cabecalho h1{
-            margin-left: 50%;
-        }
-.cabecalho{
-    background-image: url(./img/psychJH.png);
-    height: 300px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    display:grid;
-    grid-template-columns: 50% 50%;
-}
-.cabecalho
-   width: 50px
-   height: 50px
-   .cabecalho-secundario{
-    display: flex;
-    flex-direction:column;
-    justify-content:center;
-    align-intems:center;
-}
-.conteudo01{
+.textos2{
     display: flex;
 }
-.conteudo01-img{
-    display:flex;
-    padding: 32px;
-    justify-content:center;
-    align-items:center;
-    background-color:green;
-    font: size 24px;
-    color:blue;
 
 
+
+
+.textoeimg{display:block;}
+
+
+.pag1{
+height: 450px;
+    align-items: center;
+    justify-content: center;
+background-image:url(./imagens/download.jpeg);
+background-size: cover;}
+
+.txtprincipal{color: white;
+    padding-top: 250px;}
+
+body{background-color:white;
+color: black;}
+
+.pag2{
+    padding: 60px;
+    height: 450px;
+    align-items: center;
+    justify-content: center;
 }
-.conteudo01-img{
-    width: 40%;
-}
+
+.pag3{height: 450px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+display: flex;}
+
+.txtpag3{color:white}
+
+.pag4{height: 450px;
+    align-items: center;
+    justify-content: center;
+    display: flex;}
+
+.pag5{height: 450px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: #EAECF0;}
+
+.bloco1{width: 50%;}
+.bloco2{width: 50%;}
+.bloco1pag4{width: 50%;}
+.bloco2pag4{width: 50%;}
+.bloco1pag5{width: 50%;}
+.bloco1pag5{width: 50%;}
