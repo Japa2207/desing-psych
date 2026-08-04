@@ -32,7 +32,7 @@ color: black;}
     width: 200px;
 }
 
-.pag3{height: 450px;
+.pag3{height: 800px;
     align-items: center;
     justify-content: center;
     background-color: black;
@@ -40,16 +40,7 @@ display: flex;}
 
 .txtpag3{color:white}
 
-.pag4{height: 450px;
-    align-items: center;
-    justify-content: center;
-    display: flex;}
 
-.pag5{height: 450px;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    background-color: #EAECF0;}
 
 .bloco1{width: 50%;}
 .bloco2{width: 50%;}
